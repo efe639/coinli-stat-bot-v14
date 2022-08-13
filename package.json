@@ -1,0 +1,21 @@
+{
+  "name": "Godzilla",
+  "version": "4.0.0",
+  "description": "Raven için oluşturulan v14 statlı bot altyapısı",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Raven",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.0.0",
+    "discord.js": "^14.0.1",
+    "fs": "^0.0.1-security",
+    "orio.db": "^3.1.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
